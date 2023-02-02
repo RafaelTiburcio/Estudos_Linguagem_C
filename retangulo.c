@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+#include <math.h>
 
 void limpar_entrada() {
     char c;
