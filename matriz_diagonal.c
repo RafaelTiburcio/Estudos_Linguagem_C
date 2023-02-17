@@ -33,15 +33,8 @@ int main()
     printf("Diagonal principal:\n");
 
     for (i = 0; i < N; i++) {
-        for (j = 0; j < N; j++) {
-            if (i == j) {
-            printf("%d  ", mat[i] [j]);
+            printf("%d  ", mat[i] [i]);
             }
-        }
-    }
-
-
-
 
 
 
